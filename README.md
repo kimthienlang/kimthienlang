@@ -55,9 +55,9 @@
 ###
 
 <div>
-  #YOUTUBE  : unlink
-  #INSTAGRAM: unlink
-  #TWITCH   : unlink
-  #GMAIL    : unlink
-  #LINKEDIN : unlink
+  <p>#YOUTUBE  : unlink</p> <br />
+  <p>#INSTAGRAM: unlink</p> <br />
+  <p>#TWITCH   : unlink</p> <br />
+  <p>#GMAIL    : unlink</p> <br />
+  <p>#LINKEDIN : unlink</p> <br />
 </div>
