@@ -53,11 +53,3 @@
 <img src="https://raw.githubusercontent.com/kimthienlang/kimthienlang/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<div>
-  <p>#YOUTUBE  : unlink</p> <br />
-  <p>#INSTAGRAM: unlink</p> <br />
-  <p>#TWITCH   : unlink</p> <br />
-  <p>#GMAIL    : unlink</p> <br />
-  <p>#LINKEDIN : unlink</p> <br />
-</div>
