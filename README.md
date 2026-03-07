@@ -26,7 +26,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://media.licdn.com/dms/image/C4E12AQGhFbRMPvf0tg/article-cover_image-shrink_600_2000/0/1636293868291?e=2147483647&v=beta&t=Cmx0QZ0okPduLbfWorB2IIaBXhGelna6dtW0z9E8L34" height="30" alt="html5 logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
